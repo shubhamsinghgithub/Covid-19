@@ -6,15 +6,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ![alt text](https://meetanubhav.github.io/Covid19App/webpreview_2.jpg)
 
 ## Motivation Behind
-
-This project was started as an Angular starter project during the COVID-19 panademic. 
-By seeing the crisis and situation during this panademic , It was necessary to provide a dashboard to citizens so they can know the status in a single click.
+COVID-19
 
 ## ! Disclaimer
-
-This is not a ' Official Govermental Website ' nor the data is approved by Goverment of any organization , department, country, state, city  or district.
-Data here are collected from various sources and displayed.
-This project was created for learning purpose.
 
 ## Special Thanks for providing API
 
@@ -25,14 +19,10 @@ This project was created for learning purpose.
 To setup the project on your local machine:
 
 1. Click on `Fork`.
-2. Go to your fork and `clone` the project to your local machine.
-3. `git clone https://github.com/meetanubhav/Covid19App.git`
 
 To contribute to the project:
 
-1. Choose any open issue from [here](https://github.com/meetanubhav/Covid19App/issues). 
-2. Comment on the issue: `Can I work on this?` and get assigned.
-3. Make changes to your fork and send a PR.
+1. Choose any open issue from [here](https://github.com/shubhamsinghgithub). 
 
 To create a PR:
 
@@ -44,11 +34,6 @@ To send a PR, follow these rules carefully,**otherwise your PR will be closed**:
 
 For any doubts related to the issues, i.e., to understand the issue better etc, comment down your queries on the respective issue.
 
-
-
-
-#### Contributors 
-- [Anubhav Gupta](https://github.com/meetanubhav)
 
 ---------------------------------------------------------------------------------------------------------------
 
